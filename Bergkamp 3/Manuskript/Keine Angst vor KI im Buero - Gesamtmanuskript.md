@@ -303,6 +303,8 @@ Die dritte Sorge ist die mit dem größten Schamfaktor. In der Besprechung falle
 
 Hier habe ich eine Nachricht für dich, die du mir erst glauben wirst, wenn du es selbst erlebt hast: Die meisten, die nicken, wissen es auch nicht. Sie haben vielleicht zweimal etwas ausprobiert und sich aus einem Zeitungsartikel die fünf wichtigsten Wörter gemerkt. Das reicht, um in Besprechungen mitzunicken. Es reicht nicht, um es jemandem zu erklären. Der Abstand zwischen dir und den Nickenden ist viel kleiner, als er sich anfühlt.
 
+Und er lässt sich schließen, schneller als du denkst. Denn das Grundprinzip dieser Werkzeuge ist kein Geheimwissen. Falls du Band 1 dieser Reihe gelesen hast, kennst du es schon: Diese Programme raten auf Grundlage riesiger Textmengen, welches Wort als Nächstes am besten passt, und sie tun das so schnell und so gut, dass flüssige, kluge Texte dabei herauskommen. Falls du Band 1 nicht kennst, macht das nichts. Alles, was du für das Büro brauchst, bekommst du in diesem Buch erklärt, in Ruhe und ohne Fachwörter.
+
 Und weil wir gerade dabei sind, räumen wir die Wörter gleich weg. Sie sind harmloser, als sie klingen.
 
 Ein Chatbot ist einfach ein Programm, mit dem du dich schreibend unterhältst. Du tippst etwas ein, es antwortet, du tippst nach. Wie eine Nachrichten-App, nur dass am anderen Ende kein Mensch sitzt.
@@ -314,8 +316,6 @@ Ein Modell ist das Programm dahinter, also das, was die Antworten erzeugt. Namen
 Copilot ist der Name, den Microsoft seinem KI-Assistenten gegeben hat, dem, der in Word, Outlook und Teams eingebaut ist. Wenn in deiner Firma von Copilot die Rede ist, geht es also meistens nicht um ein neues Programm, sondern um eine Schaltfläche in Programmen, die du längst benutzt.
 
 Das war es. Vier Wörter. Damit kannst du in jeder Besprechung mitreden, und diesmal nicht nur mitnicken.
-
-Und er lässt sich schließen, schneller als du denkst. Denn das Grundprinzip dieser Werkzeuge ist kein Geheimwissen. Falls du Band 1 dieser Reihe gelesen hast, kennst du es schon: Diese Programme raten auf Grundlage riesiger Textmengen, welches Wort als Nächstes am besten passt, und sie tun das so schnell und so gut, dass flüssige, kluge Texte dabei herauskommen. Falls du Band 1 nicht kennst, macht das nichts. Alles, was du für das Büro brauchst, bekommst du in diesem Buch erklärt, in Ruhe und ohne Fachwörter.
 
 Der Alltagstest für diese Sorge: Woran würdest du merken, dass du wirklich abgehängt bist? Abgehängt wärst du, wenn du es nicht mehr lernen könntest. Davon kann keine Rede sein. Diese Werkzeuge bedient man, indem man normale Sätze tippt. Kein Programmieren, keine Kommandosprache. Wenn du eine Mail schreiben kannst, hast du die technische Hürde bereits hinter dir. Was dir fehlt, ist keine Begabung. Es sind ein paar Grundlagen und ein bisschen Übung, und beides ist beschaffbar.
 
@@ -387,6 +387,8 @@ Viertens: Wer ist zuständig, wenn du eine Frage hast? Meistens steht am Ende ei
 
 Wenn du diese vier Punkte aus dem Dokument herausgezogen hast, kennst du deine Hausordnung besser als die meisten Kollegen. Das dauert eine Viertelstunde, und danach musst du es lange nicht wieder tun.
 
+Ein Wort zum Zeitpunkt dieser Suche: Mach sie, bevor du das erste Mal etwas eintippst, nicht danach. Das klingt selbstverständlich und ist es nicht, denn die übliche Reihenfolge im Büro ist umgekehrt. Erst probiert jemand etwas aus, dann fragt er sich, ob er durfte. Die Suche dauert eine Viertelstunde und die Nachfrage-Mail vier Zeilen. Danach hast du für Monate Ruhe.
+
 **Ein Tipp.** Wenn du eine Richtlinie gefunden hast, achte auf das Datum. Dieses Feld bewegt sich schnell, und Firmen schreiben ihre Regeln gerade laufend um. Eine Regelung von vor zwei Jahren kann strenger oder großzügiger sein als die aktuelle Praxis. Im Zweifel gilt sie trotzdem, bis eine neue kommt, aber es lohnt sich zu fragen, ob an einer Neufassung gearbeitet wird.
 
 ## Wenn es keine Regel gibt
@@ -438,8 +440,6 @@ Vielleicht fragst du dich, an wen du dich wenden sollst, wenn deine Führungskra
 Dann gibt es zwei weitere Türen. Die erste ist die IT. Sie weiß in aller Regel als Erste, welche Werkzeuge im Haus überhaupt freigeschaltet sind und welche die Firewall blockiert. Das ist eine sachliche Auskunft, keine Erlaubnis, aber sie hilft dir bei der Einordnung. Die zweite Tür ist die Datenschutzbeauftragte oder der Personalrat. Dort landest du mit der Frage, ob eine bestimmte Nutzung in Ordnung geht, genau richtig.
 
 Und wenn du gar keine Antwort bekommst? Dann hakst du nach vier Wochen einmal freundlich nach und legst dir die Mail ab. Mehr ist nicht deine Aufgabe. Du bist nicht dafür zuständig, dass deine Firma eine Richtlinie hat. Du bist dafür zuständig, dich an die zu halten, die es gibt, und nachzufragen, wo keine ist. Beides hast du dann getan.
-
-Und ein Wort zum Zeitpunkt dieser Suche: Mach sie, bevor du das erste Mal etwas eintippst, nicht danach. Das klingt selbstverständlich und ist es nicht, denn die übliche Reihenfolge im Büro ist umgekehrt. Erst probiert jemand etwas aus, dann fragt er sich, ob er durfte. Die Suche dauert eine Viertelstunde und die Nachfrage-Mail vier Zeilen. Danach hast du für Monate Ruhe.
 
 Falls du im öffentlichen Dienst arbeitest, so wie Emma, heißen die Dinge etwas anders. Statt Betriebsrat gibt es dort den Personalrat, und statt Betriebsvereinbarung die Dienstvereinbarung. Das Prinzip ist dasselbe: Beteiligung ist vorgeschrieben, und sie dient deinem Schutz.
 
@@ -943,13 +943,13 @@ Warum das wirkt, hat weniger mit Organisation zu tun als mit dem Kopf. Eine unab
 
 Es gibt noch einen zweiten Grund für den Abschluss, und der zeigt sich erst nach ein paar Wochen. Wenn du deine Listen aufhebst, siehst du Muster. Dass bestimmte Aufgaben immer wieder verschoben werden, zum Beispiel, oder dass die Dienstage regelmäßig überlaufen, weil vormittags zwei Runden liegen. Solche Muster sieht man im einzelnen Tag nie, weil jeder Tag seine eigene Erklärung mitbringt. Über zehn Tage hinweg fallen sie sofort auf, und dann kann man etwas ändern, das größer ist als eine Liste.
 
+Und wenn du magst, hängst du eine dritte Frage an, die ich selbst sehr schätze: Was war heute gut? Nicht als Wellness-Übung, sondern als Korrektur. Unser Gedächtnis behält am Abend zuverlässig das Unerledigte und vergisst das Geschaffte, und deshalb fühlen sich gute Tage regelmäßig wie schlechte an. Eine einzige Zeile hält dagegen.
+
 Ein Wort zu Menschen, die keine Listen mögen, denn die gibt es, und sie haben gute Gründe. Wenn dir Listen die Arbeit zerhacken, weil du in längeren Zügen denkst, dann nutz das Verfahren anders: Lass dir statt einer Liste einen kurzen Absatz schreiben, der beschreibt, was heute ansteht und wo es eng wird. Der Auftrag ist derselbe, du änderst nur die Form. Was zählt, ist nicht die Liste. Was zählt, ist der Abgleich zwischen dem, was du zu tun hast, und dem, was in den Tag passt.
 
 Und wenn deine Arbeit gar nicht in Tagen läuft, sondern in Vorgängen, die sich über Wochen ziehen? Dann nimm dieselbe Mechanik für die Woche statt für den Tag. Montagmorgen, dieselben Zutaten, dieselben vier Überschriften, nur mit dem Zeitraum einer Woche. Alles andere bleibt gleich, auch das Wichtigste: Am Ende streichst du selbst.
 
 Was sich in beiden Fällen bewährt hat, ist ein fester Ort für die Liste. Nicht mal hier, mal dort, sondern immer dieselbe Stelle, ob Papier oder Bildschirm. Der Grund ist banal: Eine Liste, die man suchen muss, wird nicht benutzt. Und eine Gewohnheit, die auf Suchen angewiesen ist, hält keine drei Wochen.
-
-Und wenn du magst, hängst du eine dritte Frage an, die ich selbst sehr schätze: Was war heute gut? Nicht als Wellness-Übung, sondern als Korrektur. Unser Gedächtnis behält am Abend zuverlässig das Unerledigte und vergisst das Geschaffte, und deshalb fühlen sich gute Tage regelmäßig wie schlechte an. Eine einzige Zeile hält dagegen.
 
 **Zur Erinnerung.** Die Liste kommt aus deinen echten Verpflichtungen, nicht aus deinen Ambitionen. Was heute keinen Handlungsbedarf hat, steht nicht drauf. Dafür gibt es den Parkplatz.
 
