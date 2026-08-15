@@ -1017,14 +1017,6 @@ Und wenn du gar nicht weißt, was du fragen sollst, weil dir das Thema fremd ist
 
 Noch ein Wort zu den Terminen, bei denen sich die Vorbereitung nicht lohnt, denn die gibt es auch. Manche Runden sind reine Informationsrunden, in denen du zuhörst und nichts entscheidest. Dort brauchst du keine Frage und keine Zusammenfassung, dort brauchst du höchstens die Ergebnisnotiz danach. Es gehört zur Ehrlichkeit dieses Buches, das zu sagen: Nicht jede Methode gehört auf jeden Termin. Die Vorbereitung lohnt sich, wenn du beitragen sollst, wenn etwas entschieden wird oder wenn du hinterher zuständig sein wirst. Bei allem anderen darfst du einfach hingehen.
 
-Dasselbe gilt für die Nachbereitung. Nicht jeder Termin braucht eine Ergebnisnotiz. Der Maßstab ist einfach: Wenn jemand später wissen muss, was beschlossen wurde, oder wenn Aufgaben verteilt wurden, dann braucht es die Notiz. Wenn ihr euch nur ausgetauscht habt, reicht dein eigener Block. Notizen, die niemand braucht, liest auch niemand, und wer sie trotzdem schreibt, gewöhnt seiner Runde ab, sie ernst zu nehmen.
-
-Und noch ein Hinweis zum Verschicken, weil er über die Wirkung entscheidet. Schick die Ergebnisnotiz am selben Tag, spätestens am nächsten Vormittag. Nicht wegen der Höflichkeit, sondern weil die Erinnerung der anderen dann noch frisch ist. Wer eine Notiz nach einer Woche bekommt, korrigiert nichts mehr, weil er sich nicht mehr sicher genug fühlt. Wer sie am selben Nachmittag bekommt, meldet sich, wenn etwas nicht stimmt. Das ist deine zweite Prüfinstanz, und sie kostet dich nichts außer Pünktlichkeit.
-
-Ein letzter Satz zur Form: Schick die Notiz im Text der Mail, nicht als Anhang. Anhänge werden geöffnet, wenn Zeit ist, und Zeit ist nie. Was im Mailtext steht, wird gelesen, und gelesen werden ist der ganze Zweck einer Ergebnisnotiz.
-
-Und wenn in deiner Runde bisher niemand Notizen geschrieben hat, dann fang einfach an, ohne Ankündigung und ohne Antrag. Eine gute Ergebnisnotiz setzt sich von allein durch, weil alle merken, wie viel angenehmer die nächste Sitzung wird, wenn man nicht mehr rekonstruieren muss, was beim letzten Mal war. Es ist eine der wenigen Verbesserungen im Büro, die keine Erlaubnis braucht.
-
 ## Danach: aus Kritzelnotizen werden Ergebnisse
 
 Nun zum Danach. Du kommst aus dem Termin, in deinem Block stehen Stichworte, halbe Sätze, ein unterstrichenes Wort, ein Pfeil. Für dich ergibt das gerade noch Sinn. Morgen früh schon nicht mehr, und für die Kollegin, die nicht dabei war, sowieso nie.
@@ -1042,6 +1034,14 @@ Der Auftrag dazu, vorher oder hinterher getippt:
 Die drei Blöcke sind bewusst so schlicht. Entschieden ist das Gedächtnis der Runde, damit nie wieder jemand sagen kann, das sei nie beschlossen worden. Offen ist die Themenliste fürs nächste Mal, sie schreibt praktischerweise schon die halbe nächste Einladung. Und Wer macht was bis wann ist der Block, wegen dem es Protokolle überhaupt gibt.
 
 Und schau dir die beiden Grenzen im Auftrag genau an, sie sind hier wichtiger als je zuvor. „Erfinde nichts dazu" und „schreib fehlt statt etwas anzunehmen". Warum? Weil deine Stichworte Lücken haben, und weil diese Programme Lücken von Natur aus füllen, freundlich, flüssig und plausibel. Bei einer Zusammenfassung ist das ärgerlich. Bei einer Ergebnisnotiz ist es gefährlich, denn die Notiz geht an Menschen, die dabei waren und sich erinnern, oder schlimmer: an Menschen, die nicht dabei waren und glauben, was dasteht.
+
+Dasselbe gilt für die Nachbereitung. Nicht jeder Termin braucht eine Ergebnisnotiz. Der Maßstab ist einfach: Wenn jemand später wissen muss, was beschlossen wurde, oder wenn Aufgaben verteilt wurden, dann braucht es die Notiz. Wenn ihr euch nur ausgetauscht habt, reicht dein eigener Block. Notizen, die niemand braucht, liest auch niemand, und wer sie trotzdem schreibt, gewöhnt seiner Runde ab, sie ernst zu nehmen.
+
+Und noch ein Hinweis zum Verschicken, weil er über die Wirkung entscheidet. Schick die Ergebnisnotiz am selben Tag, spätestens am nächsten Vormittag. Nicht wegen der Höflichkeit, sondern weil die Erinnerung der anderen dann noch frisch ist. Wer eine Notiz nach einer Woche bekommt, korrigiert nichts mehr, weil er sich nicht mehr sicher genug fühlt. Wer sie am selben Nachmittag bekommt, meldet sich, wenn etwas nicht stimmt. Das ist deine zweite Prüfinstanz, und sie kostet dich nichts außer Pünktlichkeit.
+
+Ein letzter Satz zur Form: Schick die Notiz im Text der Mail, nicht als Anhang. Anhänge werden geöffnet, wenn Zeit ist, und Zeit ist nie. Was im Mailtext steht, wird gelesen, und gelesen werden ist der ganze Zweck einer Ergebnisnotiz.
+
+Und wenn in deiner Runde bisher niemand Notizen geschrieben hat, dann fang einfach an, ohne Ankündigung und ohne Antrag. Eine gute Ergebnisnotiz setzt sich von allein durch, weil alle merken, wie viel angenehmer die nächste Sitzung wird, wenn man nicht mehr rekonstruieren muss, was beim letzten Mal war. Es ist eine der wenigen Verbesserungen im Büro, die keine Erlaubnis braucht.
 
 **Zur Erinnerung.** Die Ergebnisnotiz ist ein Dokument mit Folgen. Alles, was drinsteht, wird jemand für wahr halten. Deshalb gilt: lieber dreimal „fehlt" im Text als eine einzige erfundene Frist.
 
@@ -1405,15 +1405,15 @@ Es gibt noch einen vierten Fehler, den ich getrennt nenne, weil er anders aussie
 
 Das ist kein gefährlicher Fehler, aber ein zäher, denn er fühlt sich nach Fleiß an und ist Umweg. Woran du ihn früh merkst: Du wartest auf eine Antwort, statt zu tippen. Wenn dir das auffällt, mach eine Woche lang eine einfache Probe. Bevor du einen Auftrag tippst, frag dich, ob du die Sache in der Zeit, die das Tippen des Auftrags dauert, auch selbst erledigen könntest. Wenn ja, erledige sie selbst. Werkzeuge sollen Arbeit abnehmen und nicht Arbeit erzeugen, und diese Grenze verwischt schneller, als man denkt.
 
-Und weil wir gerade bei ehrlicher Bilanz sind: Es ist völlig in Ordnung, wenn nach vier Wochen nur eine einzige Anwendung übrig ist. Eine, die läuft, ist ein Erfolg. Drei, die man sich vornimmt und nicht macht, sind keiner. Der Maßstab dieses Buches ist nicht, wie viel du übernimmst, sondern ob dein Dienstag leichter geworden ist.
+**Zur Erinnerung.** Fehler bedeuten nicht, dass du es nicht kannst. Sie bedeuten, dass du es benutzt. Entscheidend ist, dass deine Prüfroutinen mitwachsen, nicht dein Misstrauen gegen dich selbst.
+
+Und weil wir gerade bei ehrlicher Bilanz sind: Es ist völlig in Ordnung, wenn nach vier Wochen nur eine einzige Anwendung übrig ist. Eine, die läuft, ist ein Erfolg. Drei, die man sich vornimmt und nicht macht, sind keiner. Der Maßstab dieses Buches ist nicht, wie viel du übernimmst, sondern ob dein Dienstag leichter geworden ist. Wenn er das mit einem einzigen Handgriff schafft, hat sich das Lesen gelohnt, und der Rest liegt im Kasten und wartet, bis du ihn brauchst.
 
 Es gibt einen Satz, mit dem du dich in vier Wochen selbst prüfen kannst, und er ist absichtlich unbequem: Was mache ich heute anders als vor dem Lesen? Wenn dir darauf nichts einfällt, war das Buch für dich Unterhaltung, und auch das darf sein. Wenn dir eine Sache einfällt, ist es ein Werkzeugkasten geworden. Wenn dir drei einfallen, bist du weiter als die meisten in deinem Haus, und zwar ohne dass du dafür Technikfan geworden bist. Genau darum ging es von Anfang an.
 
 Bleibt eine Frage, die mir oft gestellt wird und die hierher gehört: Was, wenn sich alles wieder ändert? Es wird sich ändern, darauf gehe ich im Ausblick noch ein. Für dieses Kapitel reicht die kurze Antwort. Deine drei Anwendungen hängen nicht an einem Programm, sondern an einer Reihenfolge des Denkens: erst klären, was du willst, dann bestellen, dann prüfen, dann verantworten. Diese Reihenfolge überlebt jede Neuerung, und sie ist das Einzige, worauf du dich wirklich festlegen musst.
 
-Alles Übrige darfst du getrost den anderen überlassen: das Verfolgen der Neuigkeiten, das Vergleichen der Werkzeuge, die Diskussion darüber, welches Programm gerade das beste ist. Diese Debatte hört nie auf, und sie führt für deinen Schreibtisch zu ungefähr nichts. Du steigst wieder ein, wenn in deinem Haus etwas entschieden ist. Bis dahin arbeitest du mit dem, was da ist. Wenn er das mit einem einzigen Handgriff schafft, hat sich das Lesen gelohnt, und der Rest liegt im Kasten und wartet, bis du ihn brauchst.
-
-**Zur Erinnerung.** Fehler bedeuten nicht, dass du es nicht kannst. Sie bedeuten, dass du es benutzt. Entscheidend ist, dass deine Prüfroutinen mitwachsen, nicht dein Misstrauen gegen dich selbst.
+Alles Übrige darfst du getrost den anderen überlassen: das Verfolgen der Neuigkeiten, das Vergleichen der Werkzeuge, die Diskussion darüber, welches Programm gerade das beste ist. Diese Debatte hört nie auf, und sie führt für deinen Schreibtisch zu ungefähr nichts. Du steigst wieder ein, wenn in deinem Haus etwas entschieden ist. Bis dahin arbeitest du mit dem, was da ist.
 
 ## Im Team davon reden, ohne zu missionieren
 
