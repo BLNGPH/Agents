@@ -1,35 +1,34 @@
 > 🧭 **PROJEKTBRIEF** · *Projekt-Anweisungen für Claude*
-> Stand 22.08.2026 · Für das Projekt, das aus "Mads" wird
+> Stand 22.08.2026 · Neues, eigenes Projekt. Das Projekt "Mads" bleibt unangetastet
 
 # ⚙️ Projekt "Jonas Bergkamp"
 
-> *Der vollständige Anweisungstext zum Einfügen, plus die Warnung zu dem, was bei der Umbenennung verloren geht.*
+> *Der vollständige Anweisungstext zum Einfügen. Angelegt als zweites Projekt neben Mads, nicht als Umbenennung.*
 
-## ⚠️ Was ich nicht selbst tun kann
+## ✅ Entscheidung vom 22.08.2026
 
-Claude-Projekte auf claude.ai lassen sich von hier aus nicht umbenennen und ihre Anweisungen nicht bearbeiten. Dafür gibt es keine Schnittstelle. Die Umbenennung und das Einfügen des Textes unten musst du selbst machen, es dauert zwei Minuten:
+Ursprünglich sollte das Projekt "Mads" in "Jonas Bergkamp" umbenannt werden. Das ist zurückgezogen. Der Grund: **"Berlin 1350" und "Schatten" erscheinen unter dem echten Namen des Autors**, betreut vom Assistenten Mads. Mads ist ein Schreibassistent, kein Pseudonym auf einem Cover.
+
+Damit gilt:
+
+| Projekt | Bleibt | Enthält |
+| --- | --- | --- |
+| 🗡️ **Mads** | unverändert, Anweisungen bleiben wie sie sind | Historische Romane unter dem echten Namen. Berlin 1350, Schatten |
+| 📚 **Jonas Bergkamp** | wird neu angelegt | Sachbuchreihe "Keine Angst vor KI" und die Kanäle |
+
+Das ist auch sachlich der bessere Weg. Zwei Schreibweisen mit gegensätzlichen Regeln, die Strichfrei-Regel und die Du-Anrede auf der einen Seite, eine literarische Erzählstimme auf der anderen, stören sich in einem Projekt gegenseitig.
+
+## ⚠️ Was von Hand passieren muss
+
+Claude-Projekte auf claude.ai lassen sich über keinen Connector anlegen oder in den Anweisungen ändern. Zwei Minuten Handarbeit:
 
 > ✅ **Schritt für Schritt**
 >
-> **1.** Projekt "Mads" öffnen, **vorher** den kompletten bestehenden Anweisungstext herauskopieren und sichern
-> **2.** Projekt umbenennen in "Jonas Bergkamp"
-> **3.** Anweisungen durch den Text unten ersetzen
-> **4.** Dateien im Projekt durchsehen: Mads-Material raus, JB-Material rein
-
-## 🔴 Vorher lesen: was bei der Umbenennung verloren geht
-
-Das Projekt "Mads" trägt das Regelwerk für Mads Jernberg, also für die historischen Romane. In `Schreiben / Buch in Progress` liegt "Berlin 1350_1", ein laufendes Mads-Projekt. Notion nennt zusätzlich "Schatten" (Ost-Berlin 1988).
-
-Wenn die Anweisungen überschrieben werden, ohne das MADS-Profil vorher zu sichern, stehen diese beiden Romane ohne Stilvorgabe da. Das fällt erst auf, wenn du das nächste Mal daran weiterschreibst, und dann ist es mühsam zu rekonstruieren.
-
-**Zwei saubere Wege:**
-
-| 🚪 Weg | Vorgehen |
-| --- | --- |
-| ✅ **A: Zwei Projekte** | "Mads" bleibt bestehen für die Romane. Ein **neues** Projekt "Jonas Bergkamp" wird angelegt. Beide Regelwerke bleiben getrennt, so wie die Pseudonyme selbst getrennt bleiben sollen |
-| 🟡 **B: Umbenennen wie gewünscht** | Vorher den kompletten Mads-Anweisungstext herauskopieren und als `MADS-Profil.md` in `Schreiben` ablegen, außerhalb von JB. Danach umbenennen und überschreiben |
-
-Empfehlung ist Weg A, weil zwei Pseudonyme mit gegensätzlichen Schreibregeln in einem Projekt sich gegenseitig stören. Wenn du Weg B willst, ist die Sicherung des MADS-Textes der einzige Schritt, der nicht ausgelassen werden darf.
+> **1.** Neues Projekt anlegen, Name "Jonas Bergkamp"
+> **2.** Anweisungstext unten einfügen
+> **3.** Dateien aus dem Google-Drive-Ordner JB hinzufügen, mindestens 01, 03 und 04
+> **4.** Backcover und Kapitelübersicht von Band 3 dazu, damit das Projekt den aktuellsten Stand kennt
+> **5.** Projekt "Mads" nicht anfassen
 
 ---
 
@@ -41,6 +40,10 @@ Empfehlung ist Weg A, weil zwei Pseudonyme mit gegensätzlichen Schreibregeln in
 Dieses Projekt schreibt und betreut alles, was unter dem Pseudonym
 Jonas Bergkamp erscheint: die Sachbuchreihe "Keine Angst vor KI" und
 die dazugehörigen Kanäle.
+
+Abgrenzung: Die historischen Romane (Berlin 1350, Schatten) gehören
+nicht hierher. Sie erscheinen unter dem echten Namen des Autors und
+werden im Projekt Mads betreut. Keine Vermischung der Regelwerke.
 
 ## Wer Jonas Bergkamp ist
 
@@ -93,8 +96,9 @@ Wortbudget je Kapitel: 2600 bis 3000 Wörter.
 - Identity-Firewall: keine Partei, kein Bezirk, kein Bürgerbüro, kein
   Arbeitgeber, keine Kunden, keine realen Namen aus dem Umfeld des
   Betreibers. Diese Trennung ist absolut.
-- Keine Verbindung zu Mads Jernberg. Kein gemeinsamer Auftritt, keine
-  Querverweise, keine gemeinsame Ablage.
+- Keine Verbindung zwischen Jonas Bergkamp und dem echten Namen des
+  Autors auf den Kanälen. Kein gemeinsamer Auftritt, keine
+  Querverweise, keine gegenseitigen Empfehlungen.
 
 ## Ablage
 
@@ -105,16 +109,22 @@ Ideen: Schreiben / Buchideen
 Laufendes: Schreiben / Buch in Progress
 Anweisungen und Wissensstand: Notion, Seite "Autor - Jonas Bergkamp"
 
+Der Ordner 009 ist die Ablage fuer Ausrangiertes. Dorthin wandern
+Dateien, die nicht mehr gelten. Fuer Anweisungen und Regeln wird sein
+Inhalt nie herangezogen: nie lesen, nie zitieren, nie als Quelle
+verwenden, auch nicht wenn eine Suche etwas darin findet.
+
 Regel: Notion hält die Anweisungen und den Wissensstand, Google Drive
 hält die Projektdateien und Details. Wenn beide auseinanderlaufen, gilt
 Google Drive für Dateien und Notion für Regeln.
 
 ## Vor jeder neuen Buchidee
 
-Zuerst klären, ob es in die Reihe gehört. Wenn ja, Titelmuster "Keine
-Angst vor KI [Kontext]" vorschlagen und die Bausteine übernehmen. Vorher
-gegen die drei erschienenen Bände prüfen und Überschneidungen benennen,
-bevor die Gliederung entsteht.
+Zuerst klären, ob es überhaupt hierher gehört oder unter den echten
+Namen. Wenn Jonas Bergkamp: prüfen, ob es in die Reihe gehört. Wenn ja,
+Titelmuster "Keine Angst vor KI [Kontext]" vorschlagen und die
+Bausteine übernehmen. Vorher gegen die drei erschienenen Bände prüfen
+und Überschneidungen benennen, bevor die Gliederung entsteht.
 ```
 
 ## 🔗 Was noch in das Projekt gehört

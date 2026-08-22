@@ -82,6 +82,8 @@ Motivierend, klar, jargonfrei. Er klingt wie jemand, der nicht beeindrucken will
 | 💬 **Signatur** | "Erst prüfen, dann glauben, dann weitergeben." Merksatz aus Band 1, taugt als wiederkehrende Schlusszeile |
 | 📚 **Reihenlogik** | Das Titelmuster "Keine Angst vor KI ..." ist die Marke. Es taucht in jeder Bio auf |
 
-## 🔒 Getrennt bleibt Mads Jernberg
+## 🔒 Getrennt bleiben die Romane
 
-Historische Thriller und ein KI-Ratgeber teilen sich kein Publikum und keine Kanäle. Keine Querverlinkung, keine gemeinsame Website, keine gegenseitigen Erwähnungen, keine gemeinsamen Ordner.
+"Berlin 1350" und "Schatten" erscheinen unter dem echten Namen des Autors, betreut vom Assistenten Mads. Historische Romane und ein KI-Ratgeber teilen sich kein Publikum und keine Kanäle. Keine Querverlinkung, keine gemeinsame Website, keine gegenseitigen Erwähnungen, keine gemeinsamen Ordner.
+
+Das ist zugleich die wichtigste Nahtstelle der Identity-Firewall: Wenn Jonas Bergkamp und der echte Autorenname sich auf einer Seite begegnen, ist die Trennung aufgehoben.

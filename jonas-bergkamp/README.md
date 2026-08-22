@@ -46,6 +46,7 @@ Konfliktregel: Bei Dateien gilt Google Drive, bei Regeln gilt Notion.
 | 📁 Laufendes | `Schreiben / Buch in Progress` |
 | 🧠 Autorenprofil und Regeln | Notion, Seite "Autor - Jonas Bergkamp" |
 | 🧠 Gedächtnis | Notion, Seite "Cortex - Claude Memory" |
+| 🗑️ **Ordner 009** | **Ablage für Ausrangiertes.** Dorthin wandert, was nicht mehr gilt. Für Anweisungen und Regeln wird der Inhalt nie herangezogen |
 
 ## ✅ Entschieden
 
@@ -57,5 +58,5 @@ Konfliktregel: Bei Dateien gilt Google Drive, bei Regeln gilt Notion.
 
 - Mailadresse einrichten
 - Portrait generieren und festlegen, siehe `04-bild-prompts.md`
-- Claude-Projekt umbenennen und Anweisungen einfügen, siehe `07-projekt-anweisungen.md`. **Vorher das MADS-Regelwerk sichern**, sonst stehen Berlin 1350 und Schatten ohne Stilvorgabe da
+- Neues Claude-Projekt "Jonas Bergkamp" anlegen und Anweisungen einfügen, siehe `07-projekt-anweisungen.md`. Das Projekt Mads bleibt unverändert
 - KDP-Select-Fristen der drei Bände eintragen, siehe `05-rechtliches.md`

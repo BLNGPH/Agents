@@ -63,6 +63,6 @@ Die Manuskripte haben sie bereits: alle Bezüge zu Partei, Bezirk, Bürgerbüro,
 | Arbeitgeber, Kunden, Projekte, Kollegen |
 | Namen realer Personen aus dem beruflichen oder politischen Umfeld |
 | Fotos, auf denen echte Orte aus dem eigenen Alltag erkennbar sind |
-| Querverweise zu Mads Jernberg und den historischen Romanen |
+| Querverweise zu den historischen Romanen, die unter dem echten Namen erscheinen |
 
 Umgekehrt genauso: aus dem echten Profil heraus keine Jonas-Beiträge teilen, keine Empfehlungen, keine Kommentare unter eigenen Beiträgen. Sobald beide Konten sich gegenseitig hochspielen, ist die Trennung sichtbar und die Wirkung schlechter als bei einer offenen Ansage.

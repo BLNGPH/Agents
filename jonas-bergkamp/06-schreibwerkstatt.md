@@ -7,7 +7,7 @@
 
 ## ❓ Warum das nötig ist
 
-Es gibt zwei Autorenprofile mit gegensätzlichen Regeln. Jonas Bergkamp schreibt strichfreie Alltagssprache im Du für Sachbücher. Mads Jernberg schreibt historische Thriller mit einer ganz anderen Erzählstimme. Wenn die Werkstatt anfängt zu schreiben, bevor der Name feststeht, entsteht ein Text, der zu keinem von beiden passt und komplett neu gemacht werden muss.
+Es gibt zwei Veröffentlichungswege mit gegensätzlichen Regeln. Unter **Jonas Bergkamp** erscheinen die Sachbücher: strichfreie Alltagssprache, Du-Anrede, Emma als Figur. Unter dem **eigenen Namen** erscheinen die historischen Romane, betreut vom Assistenten Mads, mit einer ganz anderen Erzählstimme. Wenn die Werkstatt anfängt zu schreiben, bevor der Weg feststeht, entsteht ein Text, der zu keinem von beiden passt und komplett neu gemacht werden muss.
 
 ## 📋 Der Block zum Kopieren
 
@@ -22,8 +22,8 @@ Nicht danach, nicht nebenbei, sondern bevor der erste Satz entsteht.
 
 Frage wörtlich:
 "Unter welchem Namen soll das laufen: Jonas Bergkamp (Sachbuch, KI und
-Alltag), Mads Jernberg (historische Romane und Thriller) oder ein neues
-Pseudonym?"
+Alltag), unter deinem eigenen Namen (Romane, Erzählendes) oder unter
+einem neuen Pseudonym?"
 
 Wenn die Antwort schon in der Anfrage steht, etwa durch den Reihentitel
 oder das Genre, dann nicht nachfragen, sondern die Zuordnung nennen und
@@ -50,9 +50,11 @@ JONAS BERGKAMP
 - Identity-Firewall: keine Partei, kein Bezirk, kein Bürgerbüro, kein
   Arbeitgeber, keine realen Namen aus dem Umfeld des Betreibers
 
-MADS JERNBERG
-- Regelwerk laden: MADS-Profil
-- Genre: historische Romane und Thriller
+EIGENER NAME, ROMANE
+- Regelwerk laden: MADS-Profil im Projekt Mads
+- Genre: historische Romane, aktuell "Berlin 1350" und "Schatten"
+- Diese Bücher erscheinen unter dem echten Namen des Autors. Mads ist
+  der Schreibassistent, kein Pseudonym auf dem Cover
 - Erzählstimme nach MADS-Profil, nicht nach den Sachbuchregeln
 - Die Jonas-Regeln gelten hier ausdrücklich NICHT, insbesondere nicht
   die Strichfrei-Regel und nicht die Du-Anrede
@@ -77,9 +79,10 @@ Die Abfrage nützt nur etwas, wenn die Werkstatt danach auch findet, was sie lad
 | 📚 Fertige Bände | `Schreiben / Buch fertig / Bergkamp 1, 2, 3` |
 | 💡 Ideen | `Schreiben / Buchideen` |
 | ✍️ Laufende Projekte | `Schreiben / Buch in Progress` |
-| 🗡️ MADS-Profil | liegt außerhalb, nicht in JB ablegen |
+| 🗡️ MADS-Profil | bleibt im Projekt Mads, nicht in JB ablegen |
+| 🗑️ **Ordner 009** | **Ablage für Ausrangiertes.** Dateien werden dort abgelegt, aber für Anweisungen und Regeln nie herangezogen. Nie lesen, nie zitieren, nie als Quelle verwenden |
 
-> 💡 **Praxisnotiz:** In `Buch in Progress` liegt "Berlin 1350_1". Das ist ein laufendes Mads-Jernberg-Projekt. Es braucht das MADS-Profil weiterhin. Wenn das Claude-Projekt "Mads" zu "Jonas Bergkamp" umgebaut wird, muss das MADS-Regelwerk vorher gesichert und woanders abgelegt werden, sonst steht Berlin 1350 ohne Stilvorgabe da. Details dazu in `07-projekt-anweisungen.md`.
+> 💡 **Praxisnotiz:** In `Buch in Progress` liegt "Berlin 1350_1". Es läuft weiter über das Projekt Mads und erscheint unter dem echten Namen des Autors. Das Projekt Mads und seine Anweisungen bleiben unverändert. Für Jonas Bergkamp wird ein eigenes, zweites Projekt angelegt. Details in `07-projekt-anweisungen.md`.
 
 ## ✅ Zusatzregel: die Reihenprüfung
 
