@@ -1,64 +1,68 @@
-> 🧭 **PROJEKTBRIEF** · *Formale Punkte vor dem Start*
+> 🧭 **PROJEKTBRIEF** · *Formale Punkte*
 > Stand 22.08.2026 · Keine Rechtsberatung, sondern eine Liste der Stellen, an denen es klemmen kann
 
-# ⚠️ Was vor dem Anlegen geklärt sein muss
+# ⚠️ Was geklärt sein muss
 
-> *Sechs Punkte. Zwei davon sind erledigt, sobald du sie einmal gemacht hast. Einer davon kann dir echte Konten kosten. Bei den beiden letzten ist mein Kenntnisstand nicht ausreichend, dort steht ausdrücklich, dass jemand mit Fachkenntnis draufschauen sollte.*
+> *Fünf Punkte. Zwei sind erledigt, sobald du sie einmal gemacht hast. Bei zwei weiteren reicht mein Kenntnisstand nicht aus, dort steht ausdrücklich, dass jemand mit Fachkenntnis draufschauen sollte.*
 
 ## ✅ 1. Pseudonym beim Buch: unproblematisch
 
-Autorenpseudonyme sind gängige Praxis und bei KDP ausdrücklich vorgesehen. Auf dem Cover steht Jonas Bergkamp, im Steuerprofil und im Vertragsverhältnis steht dein echter Name. Das ist der Normalfall, nicht die Ausnahme, und es gibt daran nichts zu klären.
+Autorenpseudonyme sind gängige Praxis und bei KDP ausdrücklich vorgesehen. Auf dem Cover steht Jonas Bergkamp, im Steuerprofil und im Vertragsverhältnis der bürgerliche Name. Das ist der Normalfall. Drei Bände laufen bereits so.
 
 Dasselbe gilt für Tolino, Goodreads und Amazon Author Central.
 
-## ⚠️ 2. Impressum: hier steht dein echter Name
+## ⚠️ 2. Impressum: hier steht der bürgerliche Name
 
-Sobald die Landingpage geschäftlichen Charakter hat, und das hat sie, sobald ein Buch verkauft wird, greift die Impressumspflicht. Ein Pseudonym befreit davon nicht. Ins Impressum gehört der bürgerliche Name mit ladungsfähiger Anschrift.
+Sobald die Landingpage geschäftlichen Charakter hat, und das hat sie mit drei verkauften Bänden, greift die Impressumspflicht. Ein Pseudonym befreit davon nicht. Ins Impressum gehört der bürgerliche Name mit ladungsfähiger Anschrift.
 
-Das heißt in der Praxis: **Das Pseudonym ist eine Autorenmarke, keine Anonymität.** Wer wissen will, wer hinter Jonas Bergkamp steckt, findet es im Impressum in zwei Klicks. Wenn das ein Problem ist, muss das jetzt entschieden werden und nicht nach dem Launch.
+Das heißt: **Das Pseudonym ist eine Autorenmarke, keine Anonymität.** Wer wissen will, wer dahinter steckt, findet es im Impressum in zwei Klicks.
 
-Zwei Wege, wenn du die Adresse nicht öffentlich haben willst: ein Ladungsfähigkeitsdienst mit Geschäftsadresse, oder ein Impressum über eine bereits bestehende geschäftliche Anschrift. Beides üblich, beides kostet Geld.
+Zwei Wege, wenn die Privatadresse nicht öffentlich sein soll: ein Dienst mit ladungsfähiger Geschäftsadresse, oder ein Impressum über eine bereits bestehende geschäftliche Anschrift. Beides üblich, beides kostet Geld.
 
-Wer keine eigene Website betreibt und nur über Amazon verkauft, umgeht diesen Punkt weitgehend. Dann fehlt allerdings der Newsletter-Verteiler, und der ist strategisch das wertvollste Asset.
+Wer keine eigene Website betreibt und nur über Amazon verkauft, umgeht den Punkt weitgehend. Dann fehlt allerdings der Newsletter-Verteiler, und der ist strategisch das wertvollste Asset.
 
-## 🔴 3. LinkedIn: das echte Risiko
+## ✅ 3. LinkedIn: entschieden
 
-LinkedIn verlangt für Personenprofile echte Namen echter Menschen. Ein Pseudonymprofil verstößt gegen die Nutzungsbedingungen und kann gesperrt werden. Die Sperre hängt an Mailadresse, Telefonnummer und Gerät, deshalb ist der Kollateralschaden an deinem echten Profil nicht ausgeschlossen.
+Personenprofil unter Jonas Bergkamp mit eigener Mailadresse. Die Anlaufregeln stehen in `02-kanaele.md`: erste Woche nur Profil füllen, danach höchstens zehn bis fünfzehn Kontaktanfragen pro Woche mit persönlicher Notiz, erst kommentieren, dann posten.
 
-**Lösung, ausformuliert in `02-kanaele.md`:** LinkedIn-Seite statt Personenprofil. Seiten dürfen Marken sein. Sie können posten, Follower sammeln und in Suchergebnissen auftauchen. Sie können nur nicht selbst Kontaktanfragen verschicken.
+Bei Facebook eine **Seite** anlegen, kein Personenprofil. Seiten dürfen Marken sein, für Personenprofile gilt dort eine Klarnamenregel. Instagram, Pinterest und Threads sind unkritisch.
 
-Bei Instagram, Facebook-Seiten, Pinterest und Threads besteht dieses Problem nicht. Wichtig bei Facebook: eine **Seite** anlegen, kein Personenprofil, denn für Personenprofile gilt dort dieselbe Klarnamenregel.
+## ✅ 4. KI-Kennzeichnung bei Amazon: Praxis steht
 
-## ✅ 4. KI-Kennzeichnung bei Amazon: schon entschieden
+Amazon unterscheidet zwischen KI-erzeugten Inhalten, die meldepflichtig sind, und KI-unterstützten, die es nicht sind. Die Empfehlung aus dem KDP-Paket war, die Angabe beim Hochladen ehrlich zu setzen. Diese Linie gilt für alle Bände und wird hier nicht neu aufgemacht.
 
-Aus dem KDP-Paket Fassung 2: Amazon unterscheidet zwischen KI-erzeugten Inhalten, die meldepflichtig sind, und KI-unterstützten Inhalten, die es nicht sind. Da der erste Entwurf von einer KI stammt, war die Empfehlung, die Angabe beim Hochladen ehrlich zu setzen. Diese Entscheidung steht und wird hier nicht neu aufgemacht.
+## 🟡 5. Das generierte Portrait und die Werbekennzeichnung
 
-## 🟡 5. Das generierte Portrait: Kenntnisstand unsicher
+**Portrait:** Ein Bild einer Person, die es nicht gibt, ist kein Deepfake im engeren Sinn, weil dafür Ähnlichkeit zu einer real existierenden Person oder einem real stattgefundenen Ereignis nötig wäre. Trotzdem kenne ich den aktuellen Anwendungsstand der europäischen Transparenzregeln nicht sicher genug, um Unbedenklichkeit zu behaupten. Wenn die Marke dauerhaft läuft, lass das einmal von jemandem prüfen, der das Feld beruflich verfolgt.
 
-Ein Portrait einer Person, die es nicht gibt, ist kein Deepfake im engeren Sinn, weil dafür Ähnlichkeit zu einer real existierenden Person oder einem real stattgefundenen Ereignis nötig wäre. Die Transparenzregeln des europäischen KI-Gesetzes zielen auf diesen Fall, nicht auf erfundene Gesichter.
+Was in jedem Fall gilt und in `04-bild-prompts.md` als Regel steht: keine Bilder, die Ereignisse behaupten, die nicht stattgefunden haben, und keine Ähnlichkeit zu einer real existierenden Person.
 
-Trotzdem: Ich kenne den aktuellen Anwendungsstand nicht sicher genug, um zu sagen, dass es unbedenklich ist. Der Regelungsstand hat sich 2026 bewegt. Wenn du die Marke ernsthaft aufbaust, lass das einmal von jemandem prüfen, der das Feld beruflich verfolgt.
+**Werbekennzeichnung:** Sobald Amazon-Partnerlinks oder bezahlte Erwähnungen im Spiel sind, greift die Kennzeichnungspflicht. Hinweise auf die eigenen Bücher sind Eigenwerbung und in einem Autorenprofil erwartbar, gelten aber je nach Auslegung trotzdem als kennzeichnungspflichtig. Im Zweifel kennzeichnen, es kostet nichts.
 
-**Was in jedem Fall gilt und in `04-bild-prompts.md` als Regel steht:** keine Bilder, die Ereignisse behaupten, die nicht stattgefunden haben, und keine Ähnlichkeit zu einer real existierenden Person.
+## 📅 6. KDP Select im Blick behalten
 
-## 🟡 6. Werbekennzeichnung
+Für jeden Band, der in KDP Select liegt, gilt: automatische Verlängerung rechtzeitig abschalten, sonst hängt der Titel weitere neunzig Tage in der Exklusivität und kann nicht zu Tolino. Vierzehn Tage vor Ablauf ist der richtige Zeitpunkt für die Erinnerung.
 
-Sobald Links zu Amazon-Partnerprogrammen oder bezahlte Erwähnungen im Spiel sind, greift die Kennzeichnungspflicht. Reine Hinweise auf das eigene Buch sind Eigenwerbung und in einem Autorenprofil erwartbar, gelten aber je nach Auslegung trotzdem als kennzeichnungspflichtig. Im Zweifel kennzeichnen, es kostet nichts.
+| Band | Select-Ende | Erinnerung 14 Tage vorher | Tolino ab |
+| --- | --- | --- | --- |
+| Band 1 | nachtragen | nachtragen | nachtragen |
+| Band 2 | nachtragen | nachtragen | nachtragen |
+| Band 3 | nachtragen | nachtragen | nachtragen |
+
+Rechenregel: Select-Ende ist Launch plus neunzig Tage, die Erinnerung liegt vierzehn Tage davor, der Tolino-Start ist der Tag nach dem Select-Ende. Trag die echten Daten ein und leg dir die drei Erinnerungen in den Kalender. Das ist der einzige Punkt in diesem ganzen Paket, an dem Vergessen direkt Geld kostet.
 
 ---
 
 ## 🛡️ Die Identity-Firewall
 
-Das Manuskript hat sie schon: alle Bezüge zu Partei, Bezirk, Bürgerbüro, Schule und Firma wurden bewusst entfernt. Diese Firewall muss auf den Kanälen genauso gelten, sonst war die Arbeit im Manuskript umsonst.
+Die Manuskripte haben sie bereits: alle Bezüge zu Partei, Bezirk, Bürgerbüro, Schule und Firma wurden bewusst entfernt. Diese Firewall muss auf den Kanälen genauso gelten.
 
 | 🚫 Was niemals in Jonas-Kanäle gehört |
 | --- |
 | Partei, Bezirk, Wahlkreis, kommunalpolitische Themen |
 | Arbeitgeber, Kunden, Projekte, Kollegen |
 | Namen realer Personen aus dem beruflichen oder politischen Umfeld |
-| Fotos, auf denen echte Orte aus deinem Alltag erkennbar sind |
+| Fotos, auf denen echte Orte aus dem eigenen Alltag erkennbar sind |
 | Querverweise zu Mads Jernberg und den historischen Romanen |
 
-Umgekehrt gilt dasselbe: Aus deinem echten Profil heraus keine Jonas-Beiträge teilen, keine Empfehlungen, keine Kommentare unter eigenen Beiträgen. Sobald die beiden Konten sich gegenseitig hochspielen, ist die Trennung sichtbar und die Wirkung ist schlechter als bei einer offenen Ansage.
-
-> 💡 **Praxisnotiz:** Die saubere Alternative wäre, das Buch unter deinem echten Namen zu veröffentlichen und das Pseudonym fallen zu lassen. Das löst Punkt 2, 3 und 5 auf einen Schlag und du hättest mit deinem bestehenden Netzwerk sofort Reichweite, die Jonas erst in einem Jahr aufbaut. Dagegen spricht die Firewall zum politischen und beruflichen Umfeld, und das ist ein guter Grund. Ich lege die Option nur einmal auf den Tisch, weil sie nach dem Launch nicht mehr zur Verfügung steht.
+Umgekehrt genauso: aus dem echten Profil heraus keine Jonas-Beiträge teilen, keine Empfehlungen, keine Kommentare unter eigenen Beiträgen. Sobald beide Konten sich gegenseitig hochspielen, ist die Trennung sichtbar und die Wirkung schlechter als bei einer offenen Ansage.

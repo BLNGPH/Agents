@@ -1,31 +1,61 @@
 > 🧭 **PROJEKTBRIEF** · *Autorenmarke Jonas Bergkamp*
-> Erstellt 22.08.2026 · Grundlage: Notion "Autor - Jonas Bergkamp" (19.07.2026), "KDP und Tolino Paket Fassung 2" (22.07.2026)
+> Stand 22.08.2026 · Grundlage: Google Drive (Bergkamp 1 bis 3), Notion-Autorenseite, KDP-Paket Fassung 2
 
 # 📚 Jonas Bergkamp: Profil, Kanäle, Content
 
-> *Vollständiges Markenpaket für das Dachpseudonym Jonas Bergkamp. Enthält den konsolidierten Persona-Steckbrief, die Kanalstrategie mit fertigen Profiltexten, einen Redaktionsplan mit 30 konkreten Beiträgen und die Bild-Prompts. Ziel ist der Verkauf von "Keine Angst vor KI" ab dem 01.09.2026 und der Aufbau einer dauerhaften KI-Alltags-Marke.*
+> *Vollständiges Markenpaket für das Dachpseudonym Jonas Bergkamp. Persona, Kanalstrategie mit fertigen Profiltexten, vierzig Beiträge, Bild-Prompts und die Anweisungsblöcke für Schreibwerkstatt und Claude-Projekt. Ziel ist der langfristige Aufbau einer KI-Alltags-Marke über die Reihe "Keine Angst vor KI".*
 
-## ❓ Was liegt hier
+## ❓ Was hier liegt
 
 | Datei | Inhalt |
 | --- | --- |
-| 📇 **01-persona.md** | Konsolidierter Steckbrief, Stimme, Widersprüche aufgelöst, Do-and-Dont |
-| 🌐 **02-kanaele.md** | Plattformmatrix, Priorisierung, fertige Profiltexte für jeden Kanal |
-| 📝 **03-content.md** | Fünf Content-Säulen, Redaktionsrhythmus, 30 fertige Beitragsideen, Launch-Fahrplan |
-| 🖼️ **04-bild-prompts.md** | Master-Portrait, Kanalvarianten, Content-Bilder, Konsistenz-Technik |
-| ⚠️ **05-rechtliches.md** | Impressum, Plattformregeln, KI-Kennzeichnung, Trennung zur echten Identität |
+| 📇 **01-persona.md** | Steckbrief, Herkunft, Reihe, Emma, Stimme, Verbote |
+| 🌐 **02-kanaele.md** | Plattformmatrix, fertige Profiltexte für jeden Kanal |
+| 📝 **03-content.md** | Fünf Content-Säulen, Rhythmus, 40 Beiträge, Fahrplan |
+| 🖼️ **04-bild-prompts.md** | Masterprompt, Konsistenztechnik, sechs Ableitungen |
+| ⚠️ **05-rechtliches.md** | Impressum, KI-Kennzeichnung, Select-Fristen, Firewall |
+| ⚙️ **06-schreibwerkstatt.md** | Pflichtabfrage "unter welchem Namen" zum Einfügen |
+| ⚙️ **07-projekt-anweisungen.md** | Anweisungstext für das Claude-Projekt "Jonas Bergkamp" |
 
-## 🎯 Die drei Entscheidungen, die noch offen sind
+## 📖 Der Stand
 
-Alles andere ist entschieden und ausformuliert. Diese drei brauchen dich:
+| Band | Titel | Stand |
+| --- | --- | --- |
+| 1️⃣ | Keine Angst vor KI | erschienen Ende Juli 2026 |
+| 2️⃣ | Keine Angst vor KI beim Lernen | erschienen |
+| 3️⃣ | Keine Angst vor KI im Büro | erschienen 21.08.2026 |
 
-**1. LinkedIn als Person oder als Seite.**
-LinkedIn erlaubt in seinen Nutzungsbedingungen nur echte Personen als Personenprofil. Ein Pseudonymprofil mit KI-Portrait kann gesperrt werden, und die Sperre hängt an Mail und Telefonnummer, also potenziell an deinen echten Zugängen. Ich habe beide Varianten fertig geschrieben. Empfehlung in `02-kanaele.md`.
+Kanalstart: 01.09.2026. Angelegt auf Dauerbetrieb, nicht auf ein Launch-Feuerwerk.
 
-**2. Wohnort Oslo oder Deutschland.**
-Das Notion-Profil setzt Jonas nach Oslo. Ein Norweger in Oslo, der druckfrisches Deutsch für deutsche Späteinsteiger schreibt, erzeugt beim ersten Nachdenken eine Rückfrage. Vorschlag: norwegische Herkunft behalten, Wohnort nach Deutschland verlegen. Begründung in `01-persona.md`.
+## 🗂️ Wo was liegt
 
-**3. Launchdatum bestätigen.**
-Notion nennt den 01.09.2026 als Vorschlag. Heute ist der 22.08. Der Content-Fahrplan in `03-content.md` rechnet mit dem 01.09. Wenn du schiebst, verschieben sich alle Folgetermine mit.
+Zwei Systeme mit klarer Aufgabenteilung:
 
-> 💡 **Praxisnotiz:** Die Zielgruppe des Buches sind absolute Anfänger und Späteinsteiger. Diese Menschen sind nicht auf Instagram und schon gar nicht auf LinkedIn. Sie sind auf Facebook, bei YouTube und sie suchen bei Amazon. Instagram und LinkedIn bauen die Marke und erreichen Multiplikatoren. Verkauft wird über Amazon-Keywords, Facebook und den Newsletter. Diese Trennung zieht sich durch den ganzen Plan.
+| System | Rolle | Inhalt |
+| --- | --- | --- |
+| 🧠 **Notion** | das Brain | Anweisungen, Regelwerk, Wissensstand, Fortschritt, Entscheidungen |
+| 📁 **Google Drive** | die Werkstatt | Projektdateien, Manuskripte, Cover, Details, dieses Paket |
+
+Konfliktregel: Bei Dateien gilt Google Drive, bei Regeln gilt Notion.
+
+| Ort | Pfad |
+| --- | --- |
+| 📁 Dieses Paket | `Claude / Projekte / Bücher / Schreiben / JB` |
+| 📁 Fertige Bände | `Schreiben / Buch fertig / Bergkamp 1, 2, 3` |
+| 📁 Ideen | `Schreiben / Buchideen` |
+| 📁 Laufendes | `Schreiben / Buch in Progress` |
+| 🧠 Autorenprofil und Regeln | Notion, Seite "Autor - Jonas Bergkamp" |
+| 🧠 Gedächtnis | Notion, Seite "Cortex - Claude Memory" |
+
+## ✅ Entschieden
+
+- **LinkedIn:** Personenprofil unter Jonas Bergkamp, eigene Mailadresse
+- **Herkunft:** geboren in Rostock, Vater Norweger, Familie teils in Norwegen, teils in Rostock, wohnt in Berlin
+- **Start:** 01.09.2026, Fokus Langfristigkeit
+
+## 🔮 Offen
+
+- Mailadresse einrichten
+- Portrait generieren und festlegen, siehe `04-bild-prompts.md`
+- Claude-Projekt umbenennen und Anweisungen einfügen, siehe `07-projekt-anweisungen.md`. **Vorher das MADS-Regelwerk sichern**, sonst stehen Berlin 1350 und Schatten ohne Stilvorgabe da
+- KDP-Select-Fristen der drei Bände eintragen, siehe `05-rechtliches.md`
