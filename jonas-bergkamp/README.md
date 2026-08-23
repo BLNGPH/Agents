@@ -46,7 +46,7 @@ Konfliktregel: Bei Dateien gilt Google Drive, bei Regeln gilt Notion.
 | 📁 Laufendes | `Schreiben / Buch in Progress` |
 | 🧠 Autorenprofil und Regeln | Notion, Seite "Autor - Jonas Bergkamp" |
 | 🧠 Gedächtnis | Notion, Seite "Cortex - Claude Memory" |
-| 🗑️ **Ordner 009** | **Ablage für Ausrangiertes.** Dorthin wandert, was nicht mehr gilt. Für Anweisungen und Regeln wird der Inhalt nie herangezogen |
+| 🗑️ **Ordner "0099 kann weg"** | **Ablage für Ausrangiertes.** Dorthin wandert, was nicht mehr gilt. Für Anweisungen und Regeln wird der Inhalt nie herangezogen |
 
 ## ✅ Entschieden
 

@@ -112,7 +112,7 @@ Krimis. Sammelrubrik, gehört zum Projekt Mads, nicht hierher
 Laufendes: Schreiben / Buch in Progress
 Anweisungen und Wissensstand: Notion, Seite "Autor - Jonas Bergkamp"
 
-Der Ordner 009 ist die Ablage fuer Ausrangiertes. Dorthin wandern
+Der Ordner "0099 kann weg" ist die Ablage fuer Ausrangiertes. Dorthin wandern
 Dateien, die nicht mehr gelten. Fuer Anweisungen und Regeln wird sein
 Inhalt nie herangezogen: nie lesen, nie zitieren, nie als Quelle
 verwenden, auch nicht wenn eine Suche etwas darin findet.

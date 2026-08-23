@@ -318,7 +318,7 @@ Diese Dateien liegen noch an anderen Orten und gehören fachlich in die Agenteno
 
 ## ❓ Nicht zugeordnete Namen
 
-Auf Desktop Mac liegen Dateien zu Namen, die in keiner Team-Übersicht stehen. Weder als aktiver Agent noch als ausgemustert geführt. Bitte klären, dann einsortieren oder nach 009 legen.
+Auf Desktop Mac liegen Dateien zu Namen, die in keiner Team-Übersicht stehen. Weder als aktiver Agent noch als ausgemustert geführt. Bitte klären, dann einsortieren oder nach "0099 kann weg" legen. Die Dateien liegen jetzt in AI Team / 99 Zu klären.
 
 | Name | Datei | Vermutung |
 | --- | --- | --- |

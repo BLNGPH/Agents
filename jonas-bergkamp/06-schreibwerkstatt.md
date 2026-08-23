@@ -87,7 +87,7 @@ Die Abfrage nützt nur etwas, wenn die Werkstatt danach auch findet, was sie lad
 | 🕵️ **Berlin historische Krimis** | `Schreiben / Buchideen / Berlin historische Krimis`. Sammelrubrik für die historischen Berlin-Stoffe, dazu gehört "Berlin 1350". Noch leer, wird gefüllt |
 | ✍️ Laufende Projekte | `Schreiben / Buch in Progress` |
 | 🗡️ MADS-Profil | bleibt im Projekt Mads, nicht in JB ablegen |
-| 🗑️ **Ordner 009** | **Ablage für Ausrangiertes.** Dateien werden dort abgelegt, aber für Anweisungen und Regeln nie herangezogen. Nie lesen, nie zitieren, nie als Quelle verwenden |
+| 🗑️ **Ordner "0099 kann weg"** | **Ablage für Ausrangiertes.** Dateien werden dort abgelegt, aber für Anweisungen und Regeln nie herangezogen. Nie lesen, nie zitieren, nie als Quelle verwenden |
 
 > 💡 **Praxisnotiz:** In `Buch in Progress` liegt "Berlin 1350_1". Es läuft weiter über das Projekt Mads und erscheint unter dem echten Namen des Autors. Das Projekt Mads und seine Anweisungen bleiben unverändert. Für Jonas Bergkamp wird ein eigenes, zweites Projekt angelegt. Details in `07-projekt-anweisungen.md`.
 
