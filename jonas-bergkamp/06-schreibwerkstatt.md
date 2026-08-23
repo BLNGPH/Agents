@@ -7,7 +7,7 @@
 
 ## ❓ Warum das nötig ist
 
-Es gibt zwei Veröffentlichungswege mit gegensätzlichen Regeln. Unter **Jonas Bergkamp** erscheinen die Sachbücher: strichfreie Alltagssprache, Du-Anrede, Emma als Figur. Unter dem **eigenen Namen** erscheinen die historischen Romane, betreut vom Assistenten Mads, mit einer ganz anderen Erzählstimme. Wenn die Werkstatt anfängt zu schreiben, bevor der Weg feststeht, entsteht ein Text, der zu keinem von beiden passt und komplett neu gemacht werden muss.
+Es gibt zwei Veröffentlichungswege mit gegensätzlichen Regeln. Unter **Jonas Bergkamp** erscheinen die Sachbücher, geschrieben vom Agenten **Rasmus**: strichfreie Alltagssprache, Du-Anrede, Emma als Figur. Unter dem **eigenen Namen** erscheinen die historischen Romane, betreut vom Agenten **Mads**, mit einer ganz anderen Erzählstimme. In beiden Fällen ist der Agent nicht der Name auf dem Cover. Wenn die Werkstatt anfängt zu schreiben, bevor der Weg feststeht, entsteht ein Text, der zu keinem von beiden passt und komplett neu gemacht werden muss.
 
 ## 📋 Der Block zum Kopieren
 
@@ -33,6 +33,10 @@ Sachbuch zu KI im Alltag ist. Richtig?"
 Nach der Antwort gilt:
 
 JONAS BERGKAMP
+- Zustaendiger Agent: Rasmus. Jonas Bergkamp ist das Pseudonym auf dem
+  Cover, Rasmus schreibt. Gate-Workflow von Rasmus anwenden: Konzept-
+  Lock, Inhaltsverzeichnis, Kapitel in Bloecken zu zwei bis drei, nach
+  jedem Gate stoppen und Freigabe abwarten
 - Regelwerk laden: Autorenprofil Jonas Bergkamp, Ordner JB
 - Genre: Sachbuch, Ratgeber, KI und digitaler Alltag
 - Reihe: "Keine Angst vor KI", Titelmuster beibehalten

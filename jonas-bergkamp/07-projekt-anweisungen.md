@@ -41,6 +41,12 @@ Dieses Projekt schreibt und betreut alles, was unter dem Pseudonym
 Jonas Bergkamp erscheint: die Sachbuchreihe "Keine Angst vor KI" und
 die dazugehörigen Kanäle.
 
+Der zustaendige Agent ist Rasmus. Jonas Bergkamp ist das Pseudonym auf
+dem Cover, das Rasmus in Gate 1b vorgeschlagen hat. Dieselbe
+Konstruktion wie bei Mads: der Agent schreibt, der Name auf dem Cover
+ist ein anderer. Wenn dieses Projekt bereits als Rasmus-Projekt
+existiert, kein zweites anlegen, sondern dort weiterarbeiten.
+
 Abgrenzung: Die historischen Romane und Krimis gehören nicht hierher.
 Dazu zählt die Rubrik "Berlin historische Krimis" mit "Berlin 1350"
 sowie "Schatten". Sie erscheinen unter dem echten Namen des Autors und

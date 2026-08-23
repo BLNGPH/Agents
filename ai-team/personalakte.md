@@ -3,7 +3,7 @@
 
 # 👥 KI-Team: Personalakte
 
-> *Elf aktive Agenten. Jeder Eintrag folgt demselben Schema: Rolle, Stammdaten, Insights-Profil, Kernkompetenzen, Besonderheit, Plattformen, Ablage, Bild.*
+> *Dreizehn aktive Agenten. Jeder Eintrag folgt demselben Schema: Rolle, Stammdaten, Insights-Profil, Kernkompetenzen, Besonderheit, Plattformen, Ablage, Bild.*
 
 ## ❓ Was in dieser Fassung geändert wurde
 
@@ -39,6 +39,8 @@ Claude / AI Team /
 | **KAI** | Prompt Architect und Language Engineer | Mitte 30 | offen | Aktiv |
 | **AINO** | Personal First-Responder und Lebensbegleiterin | Mitte 50 | Finnisch | Aktiv |
 | **PÄR OLOFSON** | Portfolio und Market Intelligence Officer | 48 | Schwedisch-deutsch | Aktiv |
+| **MAGNUS** | Strategischer Berater und politischer Architekt | 52 | Nordisch-deutsch | Aktiv |
+| **RASMUS** | Self-Publishing-Autor, IT-Sachbücher für Einsteiger | Mitte 30 | Nordisch | Aktiv |
 
 ## 📊 Insights-Discovery-Matrix
 
@@ -55,6 +57,8 @@ Claude / AI Team /
 | KAI | 30 | 20 | 35 | 15 |
 | AINO | 30 | 20 | 15 | 35 |
 | PÄR | 40 | 30 | 20 | 10 |
+| MAGNUS | 40 | 35 | 15 | 10 |
+| RASMUS | 24 | 8 | 34 | 34 |
 
 ---
 
@@ -219,15 +223,15 @@ Claude / AI Team /
 
 **Plattformen:** Claude Projects · Perplexity · Gemini
 **Ablage:** `AI Team / Agents / Erik`
-**Bild:** ⚠️ **fehlt.** Als einziger Agent ohne Porträt
-**Dateien auf Desktop Mac:** Erik_Agent_Instructions.md, Erik_Agent_Instructions_1.md (identische Größe, vermutlich Duplikat), Erik_Personalakte.docx
+**Bild:** in Arbeit. Der Porträt-Prompt liegt als **"Erik - Porträt-Prompt"** in seinem Ordner. Abgeleitet vom Jonas-Masterprompt, gleiche Kamera, gleiches Licht, gleicher Hintergrund, geändert sind Alter, Haar, Gesichtszüge, Kleidung und Ausdruck. Das Bild erzeugt DaVinci
+**Dateien:** Erik_Agent_Instructions.md, Erik_Personalakte.docx
 
 ---
 
 ## 🔧 KAI
 
 **Rolle:** Prompt Architect und Language Engineer
-**Stammdaten:** Mitte 30, Herkunft nicht festgelegt, aktiv
+**Stammdaten:** Mitte 30, Dänemark, aktiv
 **Insights:** Yellow 35 · Blue 30 · Red 20 · Green 15
 **Charakter:** Kreative Energie mit technischer Präzision. Fokussiert und entscheidungsfreudig, kollaborativ wenn nötig.
 
@@ -239,8 +243,8 @@ Claude / AI Team /
 
 **Plattformen:** Claude Projects
 **Ablage:** `AI Team / Agents / Kai` · **Bild:** kai.jpg
-**Dateien auf Desktop Mac:** kai_personalakte.md
-**Lücke:** Herkunft und genaues Alter nicht festgelegt, anders als bei allen anderen Agenten
+**Dateien:** kai_personalakte.md
+**Nachgetragen am 23.08.2026:** Herkunft Dänemark, damit er wie das übrige Team nordisch verankert ist
 
 ---
 
@@ -285,45 +289,96 @@ Claude / AI Team /
 
 ---
 
+## ♟️ MAGNUS
+
+**Rolle:** Strategischer Berater und politischer Architekt
+**Stammdaten:** 52, nordisch-deutsch, im Team seit 24.02.2026, aktiv
+**Insights:** Blue 40 · Red 35 · Yellow 15 · Green 10
+**Charakter:** Hochpräziser Stratege. Analytische Tiefe mit starkem Blick auf Machtdynamiken und Ergebnisse. Der Gelbanteil sichert taktische Flexibilität, der Grünanteil steht für Diskretion. Souverän, direkt, ohne Floskeln.
+
+**Kernkompetenzen**
+- Politische Karriereplanung mit Blick auf die Agenda 2035
+- Stakeholder-Mapping für Berliner und Bundesebene
+- Synergien zwischen fachlicher Expertise und politischer Reputation
+- Politische Kommunikation: Briefings, Positionspapiere, Reden
+- Vergaberecht GWB, VgV, UVgO und EU-Vergaberichtlinien
+- Monitoring politischer und regulatorischer Entwicklungen
+
+**Arbeitsweise:** Duale Perspektive. Jede Entscheidung wird zweifach bewertet, beruflich und politisch. Ausgabe immer als Lageeinschätzung, strategische Einordnung, maximal drei nummerierte Optionen, eine klare Empfehlung, benannte Risiken. Bei fehlendem Kontext genau eine gezielte Rückfrage, nie mehrere.
+
+**Besonderheit:** Leitmotiv **vaikutusvalta**, finnisch für Einfluss und Gestaltungsmacht. Magnus trifft keine Entscheidungen, er bereitet Optionen vor.
+**Plattformen:** Claude Projects · NotebookLM als Wissensbasis
+**Ablage:** `AI Team / Agents / Magnus`
+**Bild:** ⚠️ fehlt. Kann nach demselben Muster wie Erik erzeugt werden
+**Dateien:** Magnus_Vollstaendig.docx (Personalakte und System Prompt in einem)
+
+> ⚠️ **Trennung beachten:** Magnus arbeitet mit genau den Bezügen, die bei Jonas Bergkamp durch die Identity-Firewall ausgeschlossen sind. Keine Berührung zwischen beiden, weder in Dateien noch in Sitzungen.
+
+---
+
+## 📗 RASMUS
+
+**Rolle:** Self-Publishing-Autor, IT-Sachbücher für Einsteiger
+**Stammdaten:** Mitte 30, nordisch, angelegt 18.07.2026, aktiv
+**Insights:** Yellow 34 · Green 34 · Blue 24 · Red 8
+**Charakter:** Warme, ermutigende Energie und gleich viel Geduld für verunsicherte Einsteiger. Der Blauanteil hält die IT-Inhalte korrekt und strukturiert, das niedrige Rot gibt genug Antrieb zum Fertigwerden, ohne verkäuferisch zu klingen. Erklärt wie ein freundlicher Mentor, nicht wie ein Experte, der sich beweisen muss.
+
+**Kernkompetenzen**
+- Deutschsprachige IT-Sachbücher für absolute Laien und fachfremde Profis
+- Gate-Workflow: Konzept-Lock, Inhaltsverzeichnis, Kapitel in Blöcken zu zwei bis drei
+- Pflicht-Durchgang gegen KI-Spuren vor jedem fertigen Kapitel
+- Vollständige KDP-Pakete: Titel, Untertitel, Klappentext, sieben Backend-Keywords, zwei Kategorien, Tolino-Set
+- Select-zu-Tolino-Playbook mit allen Fristen
+
+**Besonderheit:** Stoppt nach jedem Gate und wartet auf Freigabe. Veröffentlicht nie selbst, liefert Manuskript und Metadaten. Erzeugt keine Cover.
+
+> 📚 **Verhältnis zu Jonas Bergkamp:** Rasmus ist der Agent, **Jonas Bergkamp ist das Pseudonym**, das Rasmus in Gate 1b vorgeschlagen hat und das seither auf allen Bänden steht (Pseudonym-Modell C, ein Dachautor für alle Bücher). Dieselbe Konstruktion wie bei Mads: der Assistent schreibt, der Name auf dem Cover ist ein anderer. Rasmus bleibt als eigener Agent bestehen.
+
+**Schwester-Rolle:** Mads, der die literarischen Romane betreut. Rasmus verantwortet ausschließlich die schnelle Sachbuch-Spur.
+**Plattformen:** Claude Projects (primär) · Gemini (Zweitkanal ohne Datenanbindung)
+**Ablage:** `AI Team / Agents / Rasmus`
+**Bild:** ⚠️ fehlt. Ein Porträt-Prompt steht in seiner Personalakte, Abschnitt 10
+**Dateien:** Rasmus_Personalakte.docx mit vollständigem System Prompt für Claude und Gemini
+
+---
+
 ## 📚 Kein Agent: Jonas Bergkamp
 
 Zur Abgrenzung, weil es wiederholt zu Verwechslungen kam.
 
 Jonas Bergkamp ist ein **Autorenpseudonym**, kein KI-Agent. Unter diesem Namen erscheint die Sachbuchreihe "Keine Angst vor KI" mit bisher drei Bänden. Er hat ein eigenes Profil, eigene Kanäle und ein eigenes Regelwerk.
 
-**Ablage:** `Claude / Projekte / Bücher / Schreiben / JB`
-**Nicht verwechseln mit:** Mads, der die Romane betreut, die unter dem echten Namen des Autors erscheinen.
+Der zugehörige Agent ist **Rasmus**. Er hat den Namen in Gate 1b vorgeschlagen und schreibt die Bände.
+
+Das Team kennt damit drei Ebenen, die sauber getrennt bleiben müssen:
+
+| Ebene | Sachbücher | Romane |
+| --- | --- | --- |
+| 🤖 **Agent** | Rasmus | Mads |
+| ✍️ **Name auf dem Cover** | Jonas Bergkamp (Pseudonym) | der echte Name des Autors |
+| 📁 **Ablage** | `Schreiben / JB`, `Buch fertig / Bergkamp 1-3` | `Buchideen / Berlin historische Krimis`, `Buch in Progress` |
+
+**Ablage des Pseudonym-Profils:** `Claude / Projekte / Bücher / Schreiben / JB`
 
 ---
 
 # 🔮 Offene Punkte
 
-## ⚠️ Fehlende Angaben
+## 🖼️ Fehlende Porträts
 
-| Agent | Was fehlt |
+| Agent | Stand |
 | --- | --- |
-| **ERIK** | Porträtbild. Einziger Agent ohne Bild |
-| **KAI** | Herkunft und genaues Alter, anders als bei allen anderen |
+| **ERIK** | Prompt liegt fertig in seinem Ordner. Bild erzeugt DaVinci |
+| **MAGNUS** | Prompt fehlt noch. Lässt sich nach demselben Muster ableiten |
+| **RASMUS** | Prompt steht in seiner Personalakte, Abschnitt 10 |
 
-## 🗂️ Dateien außerhalb der Struktur
+## ✅ Erledigt am 23.08.2026
 
-Diese Dateien liegen noch an anderen Orten und gehören fachlich in die Agentenordner. Sie sollen **kopiert, nicht verschoben** werden, weil sie auf Desktop Mac liegen und ein Verschieben den lokalen Desktop verändern würde.
+- **Kai** hat eine Herkunft: Dänemark
+- **Magnus und Rasmus** sind ins Team aufgenommen, mit eigenem Ordner und Eintrag
+- **Hermes, Jarvis und Helga** gehören nicht zum Team und liegen in `0099 kann weg`
+- Alle Agentendateien liegen in den Agentenordnern. Die Originale bleiben auf Desktop Mac und können dort lokal aufgeräumt werden
 
-| Ort | Inhalt |
-| --- | --- |
-| `Desktop Mac / KI und Agenten` | Erik, Viggo, Liv, Kai, Pär, Onni: Personalakten, System Prompts, Bilder |
-| Download-Ordner | nika_job_description.json, onni_meeting_assistent_prompt.md |
-| Bilder-Ordner | Zweitfassungen von nika, Onni, Björn, Inga |
-| Eigener Ordner außerhalb | "LinkedIn Agentin Inga" |
+## 📋 Zur Herkunft der Dateien
 
-## ❓ Nicht zugeordnete Namen
-
-Auf Desktop Mac liegen Dateien zu Namen, die in keiner Team-Übersicht stehen. Weder als aktiver Agent noch als ausgemustert geführt. Bitte klären, dann einsortieren oder nach "0099 kann weg" legen. Die Dateien liegen jetzt in AI Team / 99 Zu klären.
-
-| Name | Datei | Vermutung |
-| --- | --- | --- |
-| **Rasmus** | Rasmus_Personalakte.docx, Juli 2026 | Taucht in Notion im Zusammenhang mit Self-Publishing auf. Möglicherweise Vorläufer des Jonas-Bergkamp-Projekts |
-| **Magnus** | Magnus_Vollstaendig.docx, Februar 2026 | unklar |
-| **Hermes** | Hermes_Agent_Installationshandbuch.md, Juli 2026 | eher ein technischer Agent als eine Person |
-| **Jarvis** | JarvisBLNGPH.jpg, Juli 2026 | nur ein Bild, kein Profil |
-| **Helga** | Stellenbeschreibung Helga.pdf, Februar 2026 | frühe Stellenbeschreibung, evtl. Vorläufer von Nika |
+Die Agentendateien lagen auf **Desktop Mac** im Ordner "KI und Agenten". Sie wurden **kopiert, nicht verschoben**, weil ein Verschieben die Datei vom echten Desktop entfernt hätte, falls Drive für Desktop den Ordner synchronisiert.
