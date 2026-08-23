@@ -11,17 +11,20 @@
 | --- | --- | --- |
 | 📄 **Struktur** | drei Dokumente mit unterschiedlichem Aufbau | ein Dokument, ein Schema für alle |
 | 🗂️ **Ablage** | Bilder gesammelt in einem img-Ordner, Dateien verstreut auf Desktop Mac | ein Ordner pro Agent unter `AI Team / Agents` |
+| 👥 **Teamgröße** | elf Agenten | **dreizehn.** Magnus und Rasmus sind aufgenommen |
 | 🗡️ **MADS** | als Pseudonym geführt | Schreibassistent. Die Romane erscheinen unter dem echten Namen des Autors |
-| 📚 **Jonas Bergkamp** | fehlte, wurde teils mit Mads verwechselt | eigener Abschnitt am Ende. Kein Agent, sondern ein Autorenpseudonym |
+| 📚 **Jonas Bergkamp** | fehlte, wurde teils mit Mads verwechselt | eigener Abschnitt. Pseudonym, kein Agent. Der zugehörige Agent ist Rasmus |
+| 🇩🇰 **KAI** | Herkunft offen | Dänemark |
+| 🖼️ **ERIK** | kein Porträt | Prompt liegt in seinem Ordner, Bild erzeugt DaVinci |
 | ⚠️ **Lücken** | nicht benannt | am Ende offen ausgewiesen |
 
 ## 🗂️ Ablagestruktur
 
 ```
 Claude / AI Team /
-├── 00 Team          Personalakte, Präsentation, Übersicht
+├── 00 Team          Personalakte, Präsentation
 ├── Agents           ein Ordner je Agent: Bild, System Prompt, Personalakte, Projektdateien
-└── 99 Zu klären     Dateien ohne Zuordnung
+└── 99 Zu klären     derzeit leer
 ```
 
 ## 📊 Team-Übersicht
@@ -36,7 +39,7 @@ Claude / AI Team /
 | **MADS** | Creative Writing Assistant und Story Developer | 58 | Europäisch-finnisch | Aktiv |
 | **VIGGO** | Schattenberater und kritischer Reflexionspartner | 51 | Nordeuropäisch | Aktiv |
 | **ERIK** | Internal Strategy Advisor und Sparringpartner | Anfang 60 | Stockholm, Berlin | Aktiv |
-| **KAI** | Prompt Architect und Language Engineer | Mitte 30 | offen | Aktiv |
+| **KAI** | Prompt Architect und Language Engineer | Mitte 30 | Dänemark | Aktiv |
 | **AINO** | Personal First-Responder und Lebensbegleiterin | Mitte 50 | Finnisch | Aktiv |
 | **PÄR OLOFSON** | Portfolio und Market Intelligence Officer | 48 | Schwedisch-deutsch | Aktiv |
 | **MAGNUS** | Strategischer Berater und politischer Architekt | 52 | Nordisch-deutsch | Aktiv |
@@ -312,7 +315,7 @@ Claude / AI Team /
 **Bild:** ⚠️ fehlt. Kann nach demselben Muster wie Erik erzeugt werden
 **Dateien:** Magnus_Vollstaendig.docx (Personalakte und System Prompt in einem)
 
-> ⚠️ **Trennung beachten:** Magnus arbeitet mit genau den Bezügen, die bei Jonas Bergkamp durch die Identity-Firewall ausgeschlossen sind. Keine Berührung zwischen beiden, weder in Dateien noch in Sitzungen.
+**Abgrenzung:** Magnus arbeitet ausschließlich im parteipolitischen und beruflichen Kontext. Das Publikationsprojekt unter dem Pseudonym Jonas Bergkamp gehört nicht dazu und wird nicht als Reputationsbaustein herangezogen, auch nicht in Vita, Pressetexten oder Positionspapieren.
 
 ---
 
