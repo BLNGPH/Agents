@@ -52,12 +52,18 @@ JONAS BERGKAMP
 
 EIGENER NAME, ROMANE
 - Regelwerk laden: MADS-Profil im Projekt Mads
-- Genre: historische Romane, aktuell "Berlin 1350" und "Schatten"
+- Genre: historische Romane und Krimis
+- Reihe "Berlin historische Krimis": Sammelrubrik für alle historischen
+  Berlin-Stoffe. "Berlin 1350" gehört dazu. Ablage unter
+  Schreiben / Buchideen / Berlin historische Krimis
+- Ebenfalls hier: "Schatten" (Ost-Berlin 1988)
 - Diese Bücher erscheinen unter dem echten Namen des Autors. Mads ist
   der Schreibassistent, kein Pseudonym auf dem Cover
 - Erzählstimme nach MADS-Profil, nicht nach den Sachbuchregeln
 - Die Jonas-Regeln gelten hier ausdrücklich NICHT, insbesondere nicht
   die Strichfrei-Regel und nicht die Du-Anrede
+- Bei einer neuen Berlin-Idee zuerst prüfen, ob sie in die Rubrik
+  "Berlin historische Krimis" gehört, und sie dort ablegen
 
 NEUES PSEUDONYM
 - Kein Schreibstart, bevor ein Kurzprofil steht: Name, Genre,
@@ -78,6 +84,7 @@ Die Abfrage nützt nur etwas, wenn die Werkstatt danach auch findet, was sie lad
 | 📇 Autorenprofil Jonas Bergkamp | `Claude / Projekte / Bücher / Schreiben / JB` |
 | 📚 Fertige Bände | `Schreiben / Buch fertig / Bergkamp 1, 2, 3` |
 | 💡 Ideen | `Schreiben / Buchideen` |
+| 🕵️ **Berlin historische Krimis** | `Schreiben / Buchideen / Berlin historische Krimis`. Sammelrubrik für die historischen Berlin-Stoffe, dazu gehört "Berlin 1350". Noch leer, wird gefüllt |
 | ✍️ Laufende Projekte | `Schreiben / Buch in Progress` |
 | 🗡️ MADS-Profil | bleibt im Projekt Mads, nicht in JB ablegen |
 | 🗑️ **Ordner 009** | **Ablage für Ausrangiertes.** Dateien werden dort abgelegt, aber für Anweisungen und Regeln nie herangezogen. Nie lesen, nie zitieren, nie als Quelle verwenden |

@@ -41,8 +41,9 @@ Dieses Projekt schreibt und betreut alles, was unter dem Pseudonym
 Jonas Bergkamp erscheint: die Sachbuchreihe "Keine Angst vor KI" und
 die dazugehörigen Kanäle.
 
-Abgrenzung: Die historischen Romane (Berlin 1350, Schatten) gehören
-nicht hierher. Sie erscheinen unter dem echten Namen des Autors und
+Abgrenzung: Die historischen Romane und Krimis gehören nicht hierher.
+Dazu zählt die Rubrik "Berlin historische Krimis" mit "Berlin 1350"
+sowie "Schatten". Sie erscheinen unter dem echten Namen des Autors und
 werden im Projekt Mads betreut. Keine Vermischung der Regelwerke.
 
 ## Wer Jonas Bergkamp ist
@@ -106,6 +107,8 @@ Autorenprofil, Kanäle, Content und Bild-Prompts:
 Google Drive, Claude / Projekte / Bücher / Schreiben / JB
 Fertige Bände: Schreiben / Buch fertig / Bergkamp 1, 2, 3
 Ideen: Schreiben / Buchideen
+Historische Berlin-Stoffe: Schreiben / Buchideen / Berlin historische
+Krimis. Sammelrubrik, gehört zum Projekt Mads, nicht hierher
 Laufendes: Schreiben / Buch in Progress
 Anweisungen und Wissensstand: Notion, Seite "Autor - Jonas Bergkamp"
 
