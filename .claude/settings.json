@@ -19,6 +19,7 @@
     "ponytail@ponytail": true,
     "agent-skills@addy-agent-skills": true
   },
+  "enabledMcpjsonServers": ["perplexity"],
   "hooks": {
     "PreToolUse": [
       {
