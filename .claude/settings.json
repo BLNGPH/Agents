@@ -6,9 +6,53 @@
         "repo": "DietrichGebert/ponytail",
         "ref": "96608e078b2d5ea607c5c3b8b5a54d1c1fba6846"
       }
+    },
+    "addy-agent-skills": {
+      "source": {
+        "source": "github",
+        "repo": "addyosmani/agent-skills",
+        "ref": "39b723ceebf81474d0557c1fecd01eddab585563"
+      }
     }
   },
   "enabledPlugins": {
-    "ponytail@ponytail": true
+    "ponytail@ponytail": true,
+    "agent-skills@addy-agent-skills": true
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|Grep",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "command -v graphify >/dev/null 2>&1 || exit 0; graphify hook-guard search",
+            "timeout": 10
+          }
+        ]
+      },
+      {
+        "matcher": "Read|Glob",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "command -v graphify >/dev/null 2>&1 || exit 0; graphify hook-guard read",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "command -v graphify >/dev/null 2>&1 || exit 0; graphify hook-guard compact",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
   }
 }
